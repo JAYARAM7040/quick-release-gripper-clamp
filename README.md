@@ -50,14 +50,8 @@ quick-release-gripper-clamp/
 │   ├── Technical_Drawings/
 │   └── Design_Images/
 │
-├── 04_SMED_Analysis/
-│   ├── Time_Study.xlsx
-│   └── SMED_Study.md
-│
-├── 05_Results/
-│   └── Before_After_Comparison.md
-│
-├── 06_Documentation/
+├── 04_Methodology
+├── 05_Documentation/
 │   └── Project_Report.pdf
 │
 └── README.md
